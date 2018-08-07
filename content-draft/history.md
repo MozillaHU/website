@@ -194,8 +194,7 @@ felhasználói felület leíró nyelv is a XUL, ami még napjainkban is a
 leírja a Mozillához köthető asztali alkalmazások felhasználói felületét.
 
 A Mozilla nyílt forráskóduvá válásának történetét a Code Rush című film
-dolgozza fel, amelyet [itt tudsz megtekinteni]
-(https://www.youtube.com/watch?v=xsPxGr634rQ).
+dolgozza fel, amelyet [itt tudsz megtekinteni](https://www.youtube.com/watch?v=xsPxGr634rQ).
 
 A Netscape-t végül 1999-ben megvásárolta az AOL, 4,2 milliárd dollárért,
 és megtette Andreessen lett a számítógépes rendszerekért felelős
