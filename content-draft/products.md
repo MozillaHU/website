@@ -10,7 +10,7 @@
 
 ## Firefox Developer Edition
 
-**Üdvözlünk az új kedvenc böngésződben.** *Kapd meg a legújabb funkciókat, a jó teljesítményt, és azokat a fejlesztői eszközöket, amelyek a nyílt web építéséhez szükségesek.*
+**Üdvözlünk az új kedvenc böngésződben.** *Szerezd meg a legújabb funkciókat, a jó teljesítményt, és azokat a fejlesztői eszközöket, amelyek a nyílt web építéséhez szükségesek.*
 
 [A Firefox Developer Edition letöltése](https://www.mozilla.org/hu/firefox/developer/)
 [Speciális telepítési beállítások és más platformok](https://www.mozilla.org/hu/firefox/developer/all/)
@@ -30,15 +30,13 @@ Segítségre van szükséged? [Android](https://support.mozilla.org/hu/questions
 [Speciális telepítési beállítások és más platformok](https://www.mozilla.org/hu/thunderbird/all/)
 [Segítségre van szükséged?](https://support.mozilla.org/hu/questions/thunderbird)
 
-TODO: Egyéb appok pótlása: Lockbox, Notes, Firefox Reality	 stb.
+TODO: Egyéb appok pótlása: Lockbox, Notes, Firefox Reality stb.
 
 # Szolgáltatások
 
 ## Pocket
 
 ## Lightning
-
-## Thimble
 
 ## Tesztpilóta
 
