@@ -193,6 +193,10 @@ fejlesztése. Ekkor került a böngésző eszközarzenáljába az XML alapú
 felhasználói felület leíró nyelv is a XUL, ami még napjainkban is a
 leírja a Mozillához köthető asztali alkalmazások felhasználói felületét.
 
+A Mozilla nyílt forráskóduvá válásának történetét a Code Rush című film
+dolgozza fel, amelyet [itt tudsz megtekinteni]
+(https://www.youtube.com/watch?v=xsPxGr634rQ).
+
 A Netscape-t végül 1999-ben megvásárolta az AOL, 4,2 milliárd dollárért,
 és megtette Andreessen lett a számítógépes rendszerekért felelős
 technikai vezető (CTO). Ebben ez évben került fel a MIT Technology
@@ -256,8 +260,6 @@ böngészőprogram és levelezőkliens kiadásánál. A szervezet foglalkozik
 számos kísérleti projekttel, és a kísérleti projektekből alakult hasznos
 szolgáltatásokkal és termékekkel.
 
-A Mozilláról: <http://www.youtube.com/watch?v=e9jNYuivXZI>
-
 Fő célkitűzése az innováció elősegítése és a választási lehetőség
 elérhetővé tétele a felhasználók számára. A fejlesztéseknél fontos a
 szabványos és biztonságos megoldások alkalmazása, hogy mindenki szabadon
@@ -266,7 +268,7 @@ eszközkészlet az OpenWeb építőkövei, a HTML, a CSS, a JavaScript, a
 WebGL, a WebAPI, a WebM és a többi szabványos vagy szabványosítás alatt
 álló technológia.. Ezeknek az elveknek az alapjait a Mozilla Kiáltvány
 írja le, amelyet itt olvasható el:
-http://www.mozilla.org/about/manifesto.hu.html
+<http://www.mozilla.org/about/manifesto.hu.html>
 
 Ezen felül a Mozilla egy globális közösség, amelynek tagjai az internet
 jobbá tételén fáradoznak. Ebbe a közösségbe várunk mindenkit, aki
