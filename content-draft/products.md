@@ -2,7 +2,9 @@
 
 ## Firefox
 
-**Az új Firefox** *Ismerd meg a Firefox Quantumot. Gyors, a jó célért.*
+**Az új Firefox Quantum** – *Gyors, vigyáz adataidra, és a jó cél érdekében készült.*
+
+Hódítsd meg az internetet a villámgyors Firefox Quantum segítségével. Az ingyenesen használható, magánszférádat tiszteletben tartó böngésző, újra a leggyorsabb. Tudása bővítményekkel testreszabható, megjelenése megújult, témákkal saját ízlésed szerint formálható. A szabad szofverek és a közösség erejével.
 
 [A Firefox letöltése](https://www.mozilla.org/hu/firefox/)
 [Speciális telepítési beállítások és más platformok](https://www.mozilla.org/hu/firefox/all/)
@@ -29,6 +31,8 @@ Segítségre van szükséged? [Android](https://support.mozilla.org/hu/questions
 [A Thunderbird letöltése](https://www.thunderbird.net/hu/)
 [Speciális telepítési beállítások és más platformok](https://www.mozilla.org/hu/thunderbird/all/)
 [Segítségre van szükséged?](https://support.mozilla.org/hu/questions/thunderbird)
+
+## Seamonkey
 
 TODO: Egyéb appok pótlása: Lockbox, Notes, Firefox Reality stb.
 
